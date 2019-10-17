@@ -1,3 +1,5 @@
+> > :warning: **Moved to FranzSkuffka/elm-coder-generator**
+
 # Elm coders generator
 
 Builds JSON decoders and encoders for your Elm types.
